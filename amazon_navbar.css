@@ -1,0 +1,28 @@
+/* Amazon Clone Navbar Styles */
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* Fix Logo Size */
+.logo img {
+    height: 30px;
+    width: auto;
+}
+
+/* Fix Navbar Text */
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+/* Fix Dropdown Colors */
+.dropdown-menu {
+    background-color: #232f3e;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-item:hover {
+    background-color: #37475a;
+}
