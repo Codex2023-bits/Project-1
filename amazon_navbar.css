@@ -26,3 +26,8 @@
 .dropdown-item:hover {
     background-color: #37475a;
 }
+
+.deliver_box
+{
+    width: 100px;
+}
